@@ -104,7 +104,10 @@
         }
 
 .icones {
-    margin: 60px;
+    position: absolute;
+    margin: 504px;
+    top: 200px;
+    left: 36px;
 
 }
   
